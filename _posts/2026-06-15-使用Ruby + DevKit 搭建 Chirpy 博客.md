@@ -153,3 +153,7 @@ https://用户名.github.io
   确认 DevKit 安装成功，并重开终端
 - **GitHub Pages 未生效？**  
   仓库 Settings → Pages → Source 选择 **GitHub Actions**
+- **GitHub Pages 分支设定**
+  * 主分支最好统一成main
+  * 仓库 Settings → General → Defulat branch → main 
+  * 仓库 Settings → Environments → Deployment branches and tags → Selected branches and tags → main
