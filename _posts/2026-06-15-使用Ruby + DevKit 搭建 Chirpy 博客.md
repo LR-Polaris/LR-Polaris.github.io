@@ -2,7 +2,7 @@
 title: "使用 Ruby + DevKit 搭建 Chirpy 博客"
 description: "本文记录在 Windows 环境下，通过 RubyInstaller-DevKit + Chirpy 主题搭建 GitHub Pages 博客的完整流程"
 date: 2026-06-15 20:00:00 +0800
-categories: [博客, 搭建]
+categories: [博客搭建]
 tags: [jekyll, chirpy]
 ---
 
