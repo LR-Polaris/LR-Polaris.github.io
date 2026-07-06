@@ -89,7 +89,7 @@ url: "https://用户名.github.io"
 lang: zh-CN
 timezone: Asia/Shanghai
 
-avatar: /assets/img/avatar.png
+avatar: "/assets/img/avatar.png"
 
 social:
   name: 你的名字
